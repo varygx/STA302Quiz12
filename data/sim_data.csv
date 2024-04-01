@@ -1,0 +1,11 @@
+gender,age,type,status
+Male,64,Kidney,Dead
+Male,41,Kidney,Dead
+Male,24,Prostate,Alive
+Male,53,Prostate,Dead
+Female,42,Kidney,Alive
+Female,54,Prostate,Dead
+Female,63,Kidney,Dead
+Female,37,Prostate,Dead
+Male,43,Prostate,Alive
+Female,67,Breast,Alive
